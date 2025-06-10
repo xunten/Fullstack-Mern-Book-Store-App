@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/xunten/pj-book-app-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/xunten/project-book-app-frontend
